@@ -1,3 +1,3 @@
-I haven't faced any difficulties while doing this laboratory work.
+В цій лабораторній роботі ми ознайомилися з основами Xcode, та створили свій перший проект. В даній ЛР проблем не виникло!
 
 Nahornyi Vladyslav, IV-73.
